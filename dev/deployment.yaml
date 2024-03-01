@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: 076892551558.dkr.ecr.eu-north-1.amazonaws.com/jordan-devops:latest
+        image: 076892551558.dkr.ecr.eu-north-1.amazonaws.com/jordan-devops:2
         ports:
         - containerPort: 80
